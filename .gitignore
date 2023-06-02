@@ -3,6 +3,7 @@
 .github/
 .sf/
 .sfdx/
+src/
 
 # Compiled class file
 *.class
